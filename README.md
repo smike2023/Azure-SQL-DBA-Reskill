@@ -1,2 +1,3 @@
-# Azure-SQL-DBA-Reskill
-a comprehensive SQL DBA training program tailored to your Lake Mary job requirements. Let me research the current landscape, analyze the job requirements, and build an OODA/ACT framework-based training plan with validated resources.
+A comprehensive, hands-on training program designed for experienced database professionals who need to get back up to speed with modern SQL Server and Azure SQL Database operations in just 7 days.
+
+Built using the OODA/ACT framework methodology and written in 4th-grade simple language with senior-level technical depth.
